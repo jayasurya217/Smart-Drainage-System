@@ -6,3 +6,7 @@ leads to the blockage and overflow of the drainage system. Due to lack of knowle
 the worker may meets to an accident as they have no idea how will be the condition
 in those manholes. To overcome this situation, we proposed a smart drainage system
 which will monitor the flow, chemical content and the blockage in the system.
+
+
+
+Note: The documentation of the project with an presentation is commited here for Code mail to jayasurya217@gmail.com.
